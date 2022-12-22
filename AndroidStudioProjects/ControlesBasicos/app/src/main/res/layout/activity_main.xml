@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    >
+    <Button
+        android:id="@+id/boton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/boton1"
+        android:onClick="botomSimplePulsado">
+
+    </Button>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblMensaje"
+        android:layout_marginBottom="15dp"
+        android:textColor="#FF0000"
+        android:textSize="20sp">
+
+    </TextView>
+    <ToggleButton
+        android:id="@+id/TogglebotonON"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOff="@string/off"
+        android:textOn="@string/on"
+        android:checked="true">
+
+    </ToggleButton>
+    <ToggleButton
+        android:id="@+id/TogglebotonOFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOff="@string/off"
+        android:textOn="@string/on">
+    </ToggleButton>
+    <Switch
+        android:id="@+id/swtich1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOn="@string/on"
+        android:textOff="@string/off"
+        android:checked="false"
+        android:showText="true">
+    </Switch>
+    <Switch
+        android:id="@+id/swtich2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:showText="true">
+    </Switch>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription=""
+        android:src="@drawable/ic_estrella">
+    </ImageButton>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblMensajeT"
+        android:text="Toggle botton personalizado"
+        android:layout_marginBottom="15dp"
+        android:textColor="#FF0000"
+        android:textSize="20sp">
+
+    </TextView>
+    <ToggleButton
+        android:id="@+id/TogglebotonImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOff="@string/off"
+        android:textOn="@string/on"
+        android:background="@drawable/toggle_style">
+
+    </ToggleButton>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="boton sin bordes"
+        android:src="@drawable/ic_estrella"
+        style="?android:borderlessButtonStyle">
+    </ImageButton>
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_check_pluss"
+        app:fabSize="normal"
+        app:borderWidth="0dp"
+        android:foregroundGravity="center"
+        android:layout_gravity="right"
+        >
+
+    </com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton>
+</LinearLayout>

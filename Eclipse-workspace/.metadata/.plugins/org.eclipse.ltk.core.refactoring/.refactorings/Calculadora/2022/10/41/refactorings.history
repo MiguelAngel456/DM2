@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;application.css&apos; to &apos;TANDA1J/resources/css&apos;&#x0A;- Original project: &apos;Calculadora&apos;&#x0A;- Destination element: &apos;TANDA1J/resources/css&apos;&#x0A;- Original element: &apos;application.css&apos;" description="Copy file" destination="=TANDA1J/resources&lt;css" element1="resources/css/application.css" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1665729023132" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,55 @@
+package ejercicio10;
+
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.net.DatagramPacket;
+import java.net.DatagramSocket;
+import java.net.InetAddress;
+
+public class Cliente {
+	public static void main(String[] args) throws IOException, ClassNotFoundException {
+		// EL PUERTO POR EL QUE VA A IR Y EL DESTINO
+		int puerto = 12349;
+		InetAddress destino = InetAddress.getLocalHost();
+		 
+		//OBJETO TENISTA A ENVIAR
+		Tenista tenistaEnviar = new Tenista("del Potro", 198);
+		
+		//COJER EL MENSAJE Y LO METO A UN ARRAY
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		ObjectOutputStream oos = new ObjectOutputStream(baos);
+		oos.writeObject(tenistaEnviar);
+		byte mensaje[] = baos.toByteArray();
+		baos.close();
+		oos.close();
+		
+        // CONSTRUIR EL DATAGRAMA QUE VA AL SERVIDOR
+        DatagramPacket envio = new DatagramPacket (mensaje, mensaje.length, destino, puerto);
+        DatagramSocket socket = new DatagramSocket(34567); // Puerto local
+        //ENVIO
+        socket.send(envio);
+        //VISUALIZAR INFO DEL DATAGRAMA 
+		System.out.println("Envío el objeto: " + tenistaEnviar.getApellido() + " " + tenistaEnviar.getAltura());
+		
+		//RECIBIR EL MENSAJE
+		System.out.println("Esperando datagrama.......");
+		byte recibido[] = new byte[mensaje.length];
+		DatagramPacket recibo = new DatagramPacket(recibido, recibido.length);
+		socket.receive(recibo);
+		
+		//MOSTRAR LOS DATOS DEL OBJETO RECIBIDO
+		ByteArrayInputStream bais = new ByteArrayInputStream(recibido);
+		ObjectInputStream ois = new ObjectInputStream(bais);			
+		Tenista tenistaRecibir = (Tenista)ois.readObject();
+		bais.close();
+		ois.close();
+		System.out.println("He recibido el objeto: " + tenistaRecibir.getApellido() + " " + tenistaRecibir.getAltura());
+		
+		System.out.println("Fin del cliente");
+		socket.close();
+		
+	}
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pestanas ToolBar</string>
+    <string name="tab0"></string>
+    <string name="tab1">CHATS</string>
+    <string name="tab2">ESTADOS</string>
+    <string name="tab3">LLAMADAS</string>
+
+    <string name="action_settings">actividad 2</string>
+    <string name="action3">actividad 3</string>
+    <string name="action_buscar">buscar</string>
+    <string name="action_nuevo">Nuevo</string>
+
+</resources>

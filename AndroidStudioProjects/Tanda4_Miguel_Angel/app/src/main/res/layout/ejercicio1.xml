@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/spinPaises"
+        android:layout_width="match_parent"
+        android:layout_height="73dp" />
+
+    <TextView
+        android:id="@+id/lblPoblacions"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:gravity="center"
+        android:text="La poblacion del pais seleccionado es:"
+        android:textAlignment="gravity"
+        android:textColor="#000000" />
+</LinearLayout>

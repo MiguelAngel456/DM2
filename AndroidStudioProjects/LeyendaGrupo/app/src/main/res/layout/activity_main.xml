@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginHorizontal="40dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="20dp"
+    android:gravity="top"
+    android:orientation="vertical"
+    tools:context=".Zona3_1">
+
+    <Button
+        android:id="@+id/zona3_btnGrupos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="@string/HACER_LOS_GRUPOS" />
+
+    <EditText
+        android:id="@+id/zona3_txtLeyenda"
+        android:layout_width="match_parent"
+        android:layout_height="274dp"
+        android:background="@drawable/bordes_edittext"
+        android:hint="@string/Escribe_leyenda"
+        android:textColor="@color/black"
+        android:outlineSpotShadowColor="@color/black" />
+
+    <Button
+        android:id="@+id/zona3_btnComprobar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="COMPROBAR" />
+
+    <Button
+        android:id="@+id/zona3_btnOrden"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:enabled="false"
+        android:text="@string/ORDEN" />
+
+</LinearLayout>

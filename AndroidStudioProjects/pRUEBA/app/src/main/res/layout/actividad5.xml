@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="301dp"
+        android:orientation="vertical"
+        android:scrollbarSize="40dp"
+        android:textAlignment="center">
+
+        <Button
+            android:id="@+id/subir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="subir Temperatura" />
+
+        <Button
+            android:id="@+id/bajar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="bajar Temperatura" />
+
+        <TextView
+            android:id="@+id/temp"
+            android:layout_width="match_parent"
+            android:layout_height="490dp"
+            android:layout_weight="1"
+            android:text="0º"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="40dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="163dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btnluz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingBottom="20dp"
+            app:srcCompat="@drawable/ba" />
+    </LinearLayout>
+
+</LinearLayout>

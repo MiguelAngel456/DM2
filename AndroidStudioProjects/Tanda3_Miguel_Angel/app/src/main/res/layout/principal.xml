@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/ej1"
+        android:layout_width="match_parent"
+        android:layout_height="109dp"
+        android:text="EJERCICIO1" />
+
+    <Button
+        android:id="@+id/ej2"
+        android:layout_width="match_parent"
+        android:layout_height="123dp"
+        android:text="EJERCICIO2" />
+
+    <Button
+        android:id="@+id/ej3"
+        android:layout_width="match_parent"
+        android:layout_height="143dp"
+        android:text="EJERCICIO3" />
+
+    <Button
+        android:id="@+id/ej4"
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
+        android:text="EJERCICIO4" />
+</LinearLayout>

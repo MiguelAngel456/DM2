@@ -1,0 +1,34 @@
+package controller;
+
+public class SampleController {
+	@FXML
+	private Button btnAceptar;
+
+    @FXML
+    private Button btnCancelar;
+
+    @FXML
+    private ToggleGroup groupInformes;
+
+    @FXML
+    private RadioButton rbInformeCalculos;
+
+    @FXML
+    private RadioButton rbInformePersonas;
+
+    @FXML
+    private RadioButton rbSubInforme;
+
+    @FXML
+    void Aceptar(ActionEvent event) {
+
+    }
+
+    @FXML
+    void Cancelar(ActionEvent event) {
+
+    }
+
+	
+
+}

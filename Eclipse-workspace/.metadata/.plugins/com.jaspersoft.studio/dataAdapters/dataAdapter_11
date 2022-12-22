@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>Email</name>
+  <classpath>/home/dm2/Escritorio/Librerias DEIN/bbdd/mysql-connector-java-8.0.19.jar</classpath>
+  <driver>com.mysql.jdbc.Driver</driver>
+  <username>admin</username>
+  <password>password</password>
+  <url>jdbc:mysql://localhost/agenda</url>
+  <database/>
+  <savePassword>true</savePassword>
+  <serverAddress/>
+</jdbcDataAdapter>

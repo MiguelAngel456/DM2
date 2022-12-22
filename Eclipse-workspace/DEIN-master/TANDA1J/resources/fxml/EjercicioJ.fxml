@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.FlowPane?>
+
+<BorderPane id="border-pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.EjercicioJController">
+   <top>
+      <FlowPane alignment="CENTER" prefHeight="0.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="70.0" fitWidth="171.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/cooperLogo.png" />
+               </image>
+            </ImageView>
+            <Label text="CONFIGURA TU MINI COOPER" textFill="#fcfcfc">
+               <FlowPane.margin>
+                  <Insets left="40.0" />
+               </FlowPane.margin>
+            </Label>
+         </children>
+      </FlowPane>
+   </top>
+   <center>
+      <Label alignment="CENTER" text="Selecciona tu color favorito" textFill="WHITE" BorderPane.alignment="BOTTOM_CENTER" />
+   </center>
+   <bottom>
+      <FlowPane alignment="CENTER" columnHalignment="CENTER" prefHeight="62.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fx:id="rojo" fitHeight="98.0" fitWidth="40.0" onMouseClicked="#colorear" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/colorBlazingRed.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="azulClaro" fitHeight="115.0" fitWidth="40.0" onMouseClicked="#colorear" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/colorElectricBlue.jpg" />
+               </image>
+               <FlowPane.margin>
+                  <Insets left="30.0" right="30.0" />
+               </FlowPane.margin>
+            </ImageView>
+            <ImageView fx:id="azulOscuro" fitHeight="115.0" fitWidth="40.0" onMouseClicked="#colorear" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/colorLapisluxuryBlue.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="negro" fitHeight="150.0" fitWidth="40.0" onMouseClicked="#colorear" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/colorMidnightBlack.jpg" />
+               </image>
+               <FlowPane.margin>
+                  <Insets left="30.0" right="30.0" />
+               </FlowPane.margin>
+            </ImageView>
+            <ImageView fx:id="gris" fitHeight="150.0" fitWidth="40.0" onMouseClicked="#colorear" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/colorMoonwalkGrey.jpg" />
+               </image>
+               <FlowPane.margin>
+                  <Insets right="30.0" />
+               </FlowPane.margin>
+            </ImageView>
+            <ImageView fx:id="blanco" fitHeight="150.0" fitWidth="40.0" onMouseClicked="#colorear" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/colorPepperWhite.jpg" />
+               </image>
+               <FlowPane.margin>
+                  <Insets right="30.0" />
+               </FlowPane.margin>
+            </ImageView>
+            <ImageView fx:id="grisOscuro" fitHeight="150.0" fitWidth="40.0" onMouseClicked="#colorear" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/colorThunderGray.jpg" />
+               </image>
+               <FlowPane.margin>
+                  <Insets right="30.0" />
+               </FlowPane.margin>
+            </ImageView>
+            <ImageView fx:id="amarillo" fitHeight="150.0" fitWidth="40.0" onMouseClicked="#colorear" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/colorVolcaninOrange.jpg" />
+               </image>
+            </ImageView>
+         </children>
+      </FlowPane>
+   </bottom>
+   <left>
+      <ImageView fx:id="luces" fitHeight="42.0" fitWidth="33.0" onMouseClicked="#encenderApagar" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="TOP_LEFT">
+         <image>
+            <Image url="@../images/lucesOff.png" />
+         </image>
+         <BorderPane.margin>
+            <Insets left="10.0" top="10.0" />
+         </BorderPane.margin>
+      </ImageView>
+   </left>
+</BorderPane>
