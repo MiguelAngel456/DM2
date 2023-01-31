@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<alumnos>
+   <alumno id="1">
+       <nombre>Alberto</nombre>
+       <departamento>aaaa</departamento>
+   </alumno>
+   <alumno id="2">
+       <nombre>Paco</nombre>
+       <departamento>bbbb</departamento>
+   </alumno>
+   <alumno id="3">
+       <nombre>Ramon</nombre>
+       <departamento>cccc</departamento>
+   </alumno>
+</alumnos>

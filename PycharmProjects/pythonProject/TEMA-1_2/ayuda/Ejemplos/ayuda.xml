@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<olimpiadas>
+	<olimpiada year="2016">
+		<ejemplo prueba="******">
+			<juegos>2016 Summer</juegos>
+			<temporada>Summer</temporada>
+			<ciudad>Rio de Janeiro</ciudad>
+		</ejemplo>
+	</olimpiada>
+	<olimpiada year="2016">
+		<ejemplo prueba="******">
+			<juegos>2016 Summer</juegos>
+			<temporada>Summer</temporada>
+			<ciudad>Rio de Janeiro</ciudad>
+		</ejemplo>
+		<ejemplo prueba="******">
+			<juegos>2016 Summer</juegos>
+			<temporada>Summer</temporada>
+			<ciudad>Rio de Janeiro</ciudad>
+		</ejemplo>
+	</olimpiada>
+</olimpiadas>

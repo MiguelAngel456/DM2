@@ -1,0 +1,1109 @@
+<?xml version="1.0" ?>
+<deportistas>
+	<deportista ID="1">
+		<nombre>A Dijiang</nombre>
+		<sexo>M</sexo>
+		<altura>180</altura>
+		<peso>80</peso>
+		<participaciones>
+			<deporte nombre="Basketball">
+				<participacion>
+					<participacion edad="24">
+						<equipo abbr="CHN">China</equipo>
+						<equipo>1992 Summer-Barcelona</equipo>
+						<evento>Basketball Men's Basketball</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="2">
+		<nombre>A Lamusi</nombre>
+		<sexo>M</sexo>
+		<altura>170</altura>
+		<peso>60</peso>
+		<participaciones>
+			<deporte nombre="Judo">
+				<participacion>
+					<participacion edad="23">
+						<equipo abbr="CHN">China</equipo>
+						<equipo>2012 Summer-London</equipo>
+						<evento>Judo Men's Extra-Lightweight</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="3">
+		<nombre>Gunnar Nielsen Aaby</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Football">
+				<participacion>
+					<participacion edad="24">
+						<equipo abbr="DEN">Denmark</equipo>
+						<equipo>1920 Summer-Antwerpen</equipo>
+						<evento>Football Men's Football</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="4">
+		<nombre>Edgar Lindenau Aabye</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Tug-Of-War">
+				<participacion>
+					<participacion edad="34">
+						<equipo abbr="DEN">Denmark/Sweden</equipo>
+						<equipo>1900 Summer-Paris</equipo>
+						<evento>Tug-Of-War Men's Tug-Of-War</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="5">
+		<nombre>Christine Jacoba Aaftink</nombre>
+		<sexo>F</sexo>
+		<altura>185</altura>
+		<peso>82</peso>
+		<participaciones>
+			<deporte nombre="Speed Skating">
+				<participacion>
+					<participacion edad="21">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1988 Winter-Calgary</equipo>
+						<evento>Speed Skating Women's 500 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="21">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1988 Winter-Calgary</equipo>
+						<evento>Speed Skating Women's 1,000 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="25">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Speed Skating Women's 500 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="25">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Speed Skating Women's 1,000 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="27">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Speed Skating Women's 500 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="27">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Speed Skating Women's 1,000 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="6">
+		<nombre>Per Knut Aaland</nombre>
+		<sexo>M</sexo>
+		<altura>188</altura>
+		<peso>75</peso>
+		<participaciones>
+			<deporte nombre="Cross Country Skiing">
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Cross Country Skiing Men's 10 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Cross Country Skiing Men's 50 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Cross Country Skiing Men's 10/15 kilometres Pursuit</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Cross Country Skiing Men's 4 x 10 kilometres Relay</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="33">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Cross Country Skiing Men's 10 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="33">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Cross Country Skiing Men's 30 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="33">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Cross Country Skiing Men's 10/15 kilometres Pursuit</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="33">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Cross Country Skiing Men's 4 x 10 kilometres Relay</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="7">
+		<nombre>John Aalberg</nombre>
+		<sexo>M</sexo>
+		<altura>183</altura>
+		<peso>72</peso>
+		<participaciones>
+			<deporte nombre="Cross Country Skiing">
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Cross Country Skiing Men's 10 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Cross Country Skiing Men's 50 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Cross Country Skiing Men's 10/15 kilometres Pursuit</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Cross Country Skiing Men's 4 x 10 kilometres Relay</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="33">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Cross Country Skiing Men's 10 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="33">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Cross Country Skiing Men's 30 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="33">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Cross Country Skiing Men's 10/15 kilometres Pursuit</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="33">
+						<equipo abbr="USA">United States</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Cross Country Skiing Men's 4 x 10 kilometres Relay</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="8">
+		<nombre>Cornelia &quot;Cor&quot; Aalten (-Strannood)</nombre>
+		<sexo>F</sexo>
+		<altura>168</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Athletics">
+				<participacion>
+					<participacion edad="18">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1932 Summer-Los Angeles</equipo>
+						<evento>Athletics Women's 100 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="18">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1932 Summer-Los Angeles</equipo>
+						<evento>Athletics Women's 4 x 100 metres Relay</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="9">
+		<nombre>Antti Sami Aalto</nombre>
+		<sexo>M</sexo>
+		<altura>186</altura>
+		<peso>96</peso>
+		<participaciones>
+			<deporte nombre="Ice Hockey">
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>2002 Winter-Salt Lake City</equipo>
+						<evento>Ice Hockey Men's Ice Hockey</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="10">
+		<nombre>Einar Ferdinand &quot;Einari&quot; Aalto</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Swimming">
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Swimming Men's 400 metres Freestyle</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="11">
+		<nombre>Jorma Ilmari Aalto</nombre>
+		<sexo>M</sexo>
+		<altura>182</altura>
+		<peso>76.5</peso>
+		<participaciones>
+			<deporte nombre="Cross Country Skiing">
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1980 Winter-Lake Placid</equipo>
+						<evento>Cross Country Skiing Men's 30 kilometres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="12">
+		<nombre>Jyri Tapani Aalto</nombre>
+		<sexo>M</sexo>
+		<altura>172</altura>
+		<peso>70</peso>
+		<participaciones>
+			<deporte nombre="Badminton">
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>2000 Summer-Sydney</equipo>
+						<evento>Badminton Men's Singles</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="13">
+		<nombre>Minna Maarit Aalto</nombre>
+		<sexo>F</sexo>
+		<altura>159</altura>
+		<peso>55.5</peso>
+		<participaciones>
+			<deporte nombre="Sailing">
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1996 Summer-Atlanta</equipo>
+						<evento>Sailing Women's Windsurfer</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="34">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>2000 Summer-Sydney</equipo>
+						<evento>Sailing Women's Windsurfer</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="14">
+		<nombre>Pirjo Hannele Aalto (Mattila-)</nombre>
+		<sexo>F</sexo>
+		<altura>171</altura>
+		<peso>65</peso>
+		<participaciones>
+			<deporte nombre="Biathlon">
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Biathlon Women's 7.5 kilometres Sprint</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="15">
+		<nombre>Arvo Ossian Aaltonen</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Swimming">
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1912 Summer-Stockholm</equipo>
+						<evento>Swimming Men's 200 metres Breaststroke</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1912 Summer-Stockholm</equipo>
+						<evento>Swimming Men's 400 metres Breaststroke</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1920 Summer-Antwerpen</equipo>
+						<evento>Swimming Men's 200 metres Breaststroke</evento>
+						<medalla>Bronze</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1920 Summer-Antwerpen</equipo>
+						<evento>Swimming Men's 400 metres Breaststroke</evento>
+						<medalla>Bronze</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="34">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1924 Summer-Paris</equipo>
+						<evento>Swimming Men's 200 metres Breaststroke</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="16">
+		<nombre>Juhamatti Tapio Aaltonen</nombre>
+		<sexo>M</sexo>
+		<altura>184</altura>
+		<peso>85</peso>
+		<participaciones>
+			<deporte nombre="Ice Hockey">
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>2014 Winter-Sochi</equipo>
+						<evento>Ice Hockey Men's Ice Hockey</evento>
+						<medalla>Bronze</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="17">
+		<nombre>Paavo Johannes Aaltonen</nombre>
+		<sexo>M</sexo>
+		<altura>175</altura>
+		<peso>64</peso>
+		<participaciones>
+			<deporte nombre="Gymnastics">
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Gymnastics Men's Individual All-Around</evento>
+						<medalla>Bronze</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Gymnastics Men's Team All-Around</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Gymnastics Men's Floor Exercise</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Gymnastics Men's Horse Vault</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Gymnastics Men's Parallel Bars</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Gymnastics Men's Horizontal Bar</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Gymnastics Men's Rings</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="28">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Gymnastics Men's Pommelled Horse</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Gymnastics Men's Individual All-Around</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Gymnastics Men's Team All-Around</evento>
+						<medalla>Bronze</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Gymnastics Men's Floor Exercise</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Gymnastics Men's Horse Vault</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Gymnastics Men's Parallel Bars</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Gymnastics Men's Horizontal Bar</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Gymnastics Men's Rings</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="32">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1952 Summer-Helsinki</equipo>
+						<evento>Gymnastics Men's Pommelled Horse</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="18">
+		<nombre>Timo Antero Aaltonen</nombre>
+		<sexo>M</sexo>
+		<altura>189</altura>
+		<peso>130</peso>
+		<participaciones>
+			<deporte nombre="Athletics">
+				<participacion>
+					<participacion edad="31">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>2000 Summer-Sydney</equipo>
+						<evento>Athletics Men's Shot Put</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="19">
+		<nombre>Win Valdemar Aaltonen</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Art Competitions">
+				<participacion>
+					<participacion edad="54">
+						<equipo abbr="FIN">Finland</equipo>
+						<equipo>1948 Summer-London</equipo>
+						<evento>Art Competitions Mixed Sculpturing, Unknown Event</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="20">
+		<nombre>Kjetil Andr Aamodt</nombre>
+		<sexo>M</sexo>
+		<altura>176</altura>
+		<peso>85</peso>
+		<participaciones>
+			<deporte nombre="Alpine Skiing">
+				<participacion>
+					<participacion edad="20">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Alpine Skiing Men's Downhill</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="20">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Alpine Skiing Men's Super G</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="20">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Alpine Skiing Men's Giant Slalom</evento>
+						<medalla>Bronze</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="20">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1992 Winter-Albertville</equipo>
+						<evento>Alpine Skiing Men's Slalom</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Alpine Skiing Men's Downhill</evento>
+						<medalla>Silver</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Alpine Skiing Men's Super G</evento>
+						<medalla>Bronze</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Alpine Skiing Men's Giant Slalom</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Alpine Skiing Men's Slalom</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1994 Winter-Lillehammer</equipo>
+						<evento>Alpine Skiing Men's Combined</evento>
+						<medalla>Silver</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1998 Winter-Nagano</equipo>
+						<evento>Alpine Skiing Men's Downhill</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1998 Winter-Nagano</equipo>
+						<evento>Alpine Skiing Men's Super G</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1998 Winter-Nagano</equipo>
+						<evento>Alpine Skiing Men's Giant Slalom</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1998 Winter-Nagano</equipo>
+						<evento>Alpine Skiing Men's Combined</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2002 Winter-Salt Lake City</equipo>
+						<evento>Alpine Skiing Men's Downhill</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2002 Winter-Salt Lake City</equipo>
+						<evento>Alpine Skiing Men's Super G</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2002 Winter-Salt Lake City</equipo>
+						<evento>Alpine Skiing Men's Giant Slalom</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2002 Winter-Salt Lake City</equipo>
+						<evento>Alpine Skiing Men's Slalom</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2002 Winter-Salt Lake City</equipo>
+						<evento>Alpine Skiing Men's Combined</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="34">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2006 Winter-Torino</equipo>
+						<evento>Alpine Skiing Men's Downhill</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="34">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2006 Winter-Torino</equipo>
+						<evento>Alpine Skiing Men's Super G</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="21">
+		<nombre>Ragnhild Margrethe Aamodt</nombre>
+		<sexo>F</sexo>
+		<altura>163</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Handball">
+				<participacion>
+					<participacion edad="27">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2008 Summer-Beijing</equipo>
+						<evento>Handball Women's Handball</evento>
+						<medalla>Gold</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="22">
+		<nombre>Andreea Aanei</nombre>
+		<sexo>F</sexo>
+		<altura>170</altura>
+		<peso>125</peso>
+		<participaciones>
+			<deporte nombre="Weightlifting">
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="ROU">Romania</equipo>
+						<equipo>2016 Summer-Rio de Janeiro</equipo>
+						<evento>Weightlifting Women's Super-Heavyweight</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="23">
+		<nombre>Fritz Aanes</nombre>
+		<sexo>M</sexo>
+		<altura>187</altura>
+		<peso>89</peso>
+		<participaciones>
+			<deporte nombre="Wrestling">
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2000 Summer-Sydney</equipo>
+						<evento>Wrestling Men's Light-Heavyweight, Greco-Roman</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>2004 Summer-Athina</equipo>
+						<evento>Wrestling Men's Light-Heavyweight, Greco-Roman</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="24">
+		<nombre>Nils Egil Aaness</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Speed Skating">
+				<participacion>
+					<participacion edad="24">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1960 Winter-Squaw Valley</equipo>
+						<evento>Speed Skating Men's 500 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="24">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1960 Winter-Squaw Valley</equipo>
+						<evento>Speed Skating Men's 1,500 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="27">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1964 Winter-Innsbruck</equipo>
+						<evento>Speed Skating Men's 1,500 metres</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="25">
+		<nombre>Alf Lied Aanning</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Gymnastics">
+				<participacion>
+					<participacion edad="24">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1920 Summer-Antwerpen</equipo>
+						<evento>Gymnastics Men's Team All-Around, Free System</evento>
+						<medalla>Silver</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="26">
+		<nombre>Agnes Erika Aanonsen (-Eyde)</nombre>
+		<sexo>F</sexo>
+		<altura>169</altura>
+		<peso>65</peso>
+		<participaciones>
+			<deporte nombre="Luge">
+				<participacion>
+					<participacion edad="17">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1984 Winter-Sarajevo</equipo>
+						<evento>Luge Women's Singles</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="27">
+		<nombre>Johan Aantjes</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Water Polo">
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1984 Summer-Los Angeles</equipo>
+						<evento>Water Polo Men's Water Polo</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="28">
+		<nombre>Jan-Erik Aarberg</nombre>
+		<sexo>M</sexo>
+		<altura>170</altura>
+		<peso>77</peso>
+		<participaciones>
+			<deporte nombre="Sailing">
+				<participacion>
+					<participacion edad="43">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1968 Summer-Mexico City</equipo>
+						<evento>Sailing Mixed Three Person Keelboat</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="47">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1972 Summer-Munich</equipo>
+						<evento>Sailing Mixed Three Person Keelboat</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="29">
+		<nombre>Willemien Aardenburg</nombre>
+		<sexo>F</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Hockey">
+				<participacion>
+					<participacion edad="22">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1988 Summer-Seoul</equipo>
+						<evento>Hockey Women's Hockey</evento>
+						<medalla>Bronze</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="30">
+		<nombre>Pepijn Aardewijn</nombre>
+		<sexo>M</sexo>
+		<altura>189</altura>
+		<peso>72</peso>
+		<participaciones>
+			<deporte nombre="Rowing">
+				<participacion>
+					<participacion edad="26">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>1996 Summer-Atlanta</equipo>
+						<evento>Rowing Men's Lightweight Double Sculls</evento>
+						<medalla>Silver</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="30">
+						<equipo abbr="NED">Netherlands</equipo>
+						<equipo>2000 Summer-Sydney</equipo>
+						<evento>Rowing Men's Lightweight Double Sculls</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="31">
+		<nombre>Evald rma (rman-)</nombre>
+		<sexo>M</sexo>
+		<altura>174</altura>
+		<peso>70</peso>
+		<participaciones>
+			<deporte nombre="Athletics">
+				<participacion>
+					<participacion edad="24">
+						<equipo abbr="EST">Estonia</equipo>
+						<equipo>1936 Summer-Berlin</equipo>
+						<evento>Athletics Men's Pole Vault</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+	<deportista ID="32">
+		<nombre>Olav Augunson Aarnes</nombre>
+		<sexo>M</sexo>
+		<altura>NA</altura>
+		<peso>NA</peso>
+		<participaciones>
+			<deporte nombre="Athletics">
+				<participacion>
+					<participacion edad="23">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1912 Summer-Stockholm</equipo>
+						<evento>Athletics Men's High Jump</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+			<deporte nombre="Futbol">
+				<participacion>
+					<participacion edad="23">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1912 Summer-Stockholm</equipo>
+						<evento>Athletics Men's High Jump</evento>
+						<medalla>NA</medalla>
+					</participacion>
+				</participacion>
+				<participacion>
+					<participacion edad="23">
+						<equipo abbr="NOR">Norway</equipo>
+						<equipo>1912 Summer-Stockholm</equipo>
+						<evento>Athletics Men's High Jump</evento>
+						<medalla>gold</medalla>
+					</participacion>
+				</participacion>
+			</deporte>
+		</participaciones>
+	</deportista>
+</deportistas>

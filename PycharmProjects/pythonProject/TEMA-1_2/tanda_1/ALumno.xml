@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Alumnos>
+    <Alumno id="1">
+        <Nombre>aaaaa</Nombre>
+        <Departamento>bbbb</Departamento>
+    </Alumno>
+    <Alumno id="2">
+        <Nombre>ccc</Nombre>
+        <Departamento>bcccc</Departamento>
+    </Alumno>
+    <Alumno id="3">
+        <Nombre>rrrr</Nombre>
+        <Departamento>rrrr</Departamento>
+    </Alumno>
+</Alumnos>
